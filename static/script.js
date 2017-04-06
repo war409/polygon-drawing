@@ -20,7 +20,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>earthengine-api/README.md at master · google/earthengine-api · GitHub</title>
+  <title>earthengine-api/script.js at master · google/earthengine-api · GitHub</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -32,7 +32,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="ED11:1360B:BC984D:12DF691:58E47706" data-pjax-transient>
+  <meta name="request-id" content="ED13:1360B:BCA63D:12E0858:58E47723" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -41,7 +41,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="ED11:1360B:BC984D:12DF691:58E47706" name="octolytics-dimension-request_id" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="ED13:1360B:BCA63D:12E0858:58E47723" name="octolytics-dimension-request_id" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -56,7 +56,7 @@
   <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="YzFlNWUzMTk0NzM5MDU0MTY1MzIwYjhjYWRjNTliZTFjNWNhODA2N2E0NDRhNzdiMGRjY2IxYjVkMDI3NmZiZXx7InJlbW90ZV9hZGRyZXNzIjoiMTM4LjE5NC4zNC45OCIsInJlcXVlc3RfaWQiOiJFRDExOjEzNjBCOkJDOTg0RDoxMkRGNjkxOjU4RTQ3NzA2IiwidGltZXN0YW1wIjoxNDkxMzY3Njg2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="ZTJkNDM3MDQwOGUwNDMyNzQ1NzY3ZDM4Nzc3MDhiODU1MjIzOTliNDU0YWI3M2Y5MjUzNmNkNGEwOWJhOTUwYnx7InJlbW90ZV9hZGRyZXNzIjoiMTM4LjE5NC4zNC45OCIsInJlcXVlc3RfaWQiOiJFRDEzOjEzNjBCOkJDQTYzRDoxMkUwODU4OjU4RTQ3NzIzIiwidGltZXN0YW1wIjoxNDkxMzY3NzIxLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
 
   <meta name="html-safe-nonce" content="f635aa25c31ca0e7e1a052a43da6be53c91f5d11">
@@ -72,7 +72,7 @@
         <link href="https://github.com/google/earthengine-api/commits/master.atom" rel="alternate" title="Recent Commits to earthengine-api:master" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/google/earthengine-api/blob/master/demos/polygon-drawing/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/google/earthengine-api/blob/master/demos/polygon-drawing/static/script.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -129,7 +129,7 @@
           <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/google/earthengine-api/search" class="js-site-search-form" data-scoped-search-url="/google/earthengine-api/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/google/earthengine-api/blob/master/demos/polygon-drawing/README.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/google/earthengine-api/blob/master/demos/polygon-drawing/static/script.js" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -145,7 +145,7 @@
 </form></div>
 
 
-          <a class="text-bold site-header-link" href="/login?return_to=%2Fgoogle%2Fearthengine-api%2Fblob%2Fmaster%2Fdemos%2Fpolygon-drawing%2FREADME.md" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+          <a class="text-bold site-header-link" href="/login?return_to=%2Fgoogle%2Fearthengine-api%2Fblob%2Fmaster%2Fdemos%2Fpolygon-drawing%2Fstatic%2Fscript.js" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
             <span class="text-gray">or</span>
             <a class="text-bold site-header-link" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
       </div>
@@ -286,9 +286,9 @@
     
           
 
-<a href="/google/earthengine-api/blob/235666e1dae50aec484f846a6cc7aeb83dce1ae6/demos/polygon-drawing/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/google/earthengine-api/blob/235666e1dae50aec484f846a6cc7aeb83dce1ae6/demos/polygon-drawing/static/script.js" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:258018a7ed221949f7c81e04538db7a7 -->
+<!-- blob contrib key: blob_contributors:v21:494060fa41c2b02c6d72549896231171 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -330,7 +330,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/google/earthengine-api/blob/master/demos/polygon-drawing/README.md"
+               href="/google/earthengine-api/blob/master/demos/polygon-drawing/static/script.js"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -340,7 +340,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/google/earthengine-api/blob/maxh-patch-1/demos/polygon-drawing/README.md"
+               href="/google/earthengine-api/blob/maxh-patch-1/demos/polygon-drawing/static/script.js"
                data-name="maxh-patch-1"
                data-skip-pjax="true"
                rel="nofollow">
@@ -350,7 +350,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/google/earthengine-api/blob/wiki/demos/polygon-drawing/README.md"
+               href="/google/earthengine-api/blob/wiki/demos/polygon-drawing/static/script.js"
                data-name="wiki"
                data-skip-pjax="true"
                rel="nofollow">
@@ -369,7 +369,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.108/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.108/demos/polygon-drawing/static/script.js"
               data-name="v0.1.108"
               data-skip-pjax="true"
               rel="nofollow">
@@ -379,7 +379,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.107/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.107/demos/polygon-drawing/static/script.js"
               data-name="v0.1.107"
               data-skip-pjax="true"
               rel="nofollow">
@@ -389,7 +389,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.106/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.106/demos/polygon-drawing/static/script.js"
               data-name="v0.1.106"
               data-skip-pjax="true"
               rel="nofollow">
@@ -399,7 +399,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.105/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.105/demos/polygon-drawing/static/script.js"
               data-name="v0.1.105"
               data-skip-pjax="true"
               rel="nofollow">
@@ -409,7 +409,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.103/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.103/demos/polygon-drawing/static/script.js"
               data-name="v0.1.103"
               data-skip-pjax="true"
               rel="nofollow">
@@ -419,7 +419,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.102/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.102/demos/polygon-drawing/static/script.js"
               data-name="v0.1.102"
               data-skip-pjax="true"
               rel="nofollow">
@@ -429,7 +429,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.101/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.101/demos/polygon-drawing/static/script.js"
               data-name="v0.1.101"
               data-skip-pjax="true"
               rel="nofollow">
@@ -439,7 +439,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.100/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.100/demos/polygon-drawing/static/script.js"
               data-name="v0.1.100"
               data-skip-pjax="true"
               rel="nofollow">
@@ -449,7 +449,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.99/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.99/demos/polygon-drawing/static/script.js"
               data-name="v0.1.99"
               data-skip-pjax="true"
               rel="nofollow">
@@ -459,7 +459,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.97/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.97/demos/polygon-drawing/static/script.js"
               data-name="v0.1.97"
               data-skip-pjax="true"
               rel="nofollow">
@@ -469,7 +469,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.96/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.96/demos/polygon-drawing/static/script.js"
               data-name="v0.1.96"
               data-skip-pjax="true"
               rel="nofollow">
@@ -479,7 +479,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.95/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.95/demos/polygon-drawing/static/script.js"
               data-name="v0.1.95"
               data-skip-pjax="true"
               rel="nofollow">
@@ -489,7 +489,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.94/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.94/demos/polygon-drawing/static/script.js"
               data-name="v0.1.94"
               data-skip-pjax="true"
               rel="nofollow">
@@ -499,7 +499,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.93/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.93/demos/polygon-drawing/static/script.js"
               data-name="v0.1.93"
               data-skip-pjax="true"
               rel="nofollow">
@@ -509,7 +509,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.92/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.92/demos/polygon-drawing/static/script.js"
               data-name="v0.1.92"
               data-skip-pjax="true"
               rel="nofollow">
@@ -519,7 +519,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.91/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.91/demos/polygon-drawing/static/script.js"
               data-name="v0.1.91"
               data-skip-pjax="true"
               rel="nofollow">
@@ -529,7 +529,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.89/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.89/demos/polygon-drawing/static/script.js"
               data-name="v0.1.89"
               data-skip-pjax="true"
               rel="nofollow">
@@ -539,7 +539,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.88/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.88/demos/polygon-drawing/static/script.js"
               data-name="v0.1.88"
               data-skip-pjax="true"
               rel="nofollow">
@@ -549,7 +549,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.87/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.87/demos/polygon-drawing/static/script.js"
               data-name="v0.1.87"
               data-skip-pjax="true"
               rel="nofollow">
@@ -559,7 +559,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.86/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.86/demos/polygon-drawing/static/script.js"
               data-name="v0.1.86"
               data-skip-pjax="true"
               rel="nofollow">
@@ -569,7 +569,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.85/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.85/demos/polygon-drawing/static/script.js"
               data-name="v0.1.85"
               data-skip-pjax="true"
               rel="nofollow">
@@ -579,7 +579,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.84/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.84/demos/polygon-drawing/static/script.js"
               data-name="v0.1.84"
               data-skip-pjax="true"
               rel="nofollow">
@@ -589,7 +589,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.83/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.83/demos/polygon-drawing/static/script.js"
               data-name="v0.1.83"
               data-skip-pjax="true"
               rel="nofollow">
@@ -599,7 +599,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.82/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.82/demos/polygon-drawing/static/script.js"
               data-name="v0.1.82"
               data-skip-pjax="true"
               rel="nofollow">
@@ -609,7 +609,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.81/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.81/demos/polygon-drawing/static/script.js"
               data-name="v0.1.81"
               data-skip-pjax="true"
               rel="nofollow">
@@ -619,7 +619,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.80/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.80/demos/polygon-drawing/static/script.js"
               data-name="v0.1.80"
               data-skip-pjax="true"
               rel="nofollow">
@@ -629,7 +629,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.79/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.79/demos/polygon-drawing/static/script.js"
               data-name="v0.1.79"
               data-skip-pjax="true"
               rel="nofollow">
@@ -639,7 +639,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.78/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.78/demos/polygon-drawing/static/script.js"
               data-name="v0.1.78"
               data-skip-pjax="true"
               rel="nofollow">
@@ -649,7 +649,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.77/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.77/demos/polygon-drawing/static/script.js"
               data-name="v0.1.77"
               data-skip-pjax="true"
               rel="nofollow">
@@ -659,7 +659,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.76/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.76/demos/polygon-drawing/static/script.js"
               data-name="v0.1.76"
               data-skip-pjax="true"
               rel="nofollow">
@@ -669,7 +669,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.75/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.75/demos/polygon-drawing/static/script.js"
               data-name="v0.1.75"
               data-skip-pjax="true"
               rel="nofollow">
@@ -679,7 +679,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.74/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.74/demos/polygon-drawing/static/script.js"
               data-name="v0.1.74"
               data-skip-pjax="true"
               rel="nofollow">
@@ -689,7 +689,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.73/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.73/demos/polygon-drawing/static/script.js"
               data-name="v0.1.73"
               data-skip-pjax="true"
               rel="nofollow">
@@ -699,7 +699,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.72/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.72/demos/polygon-drawing/static/script.js"
               data-name="v0.1.72"
               data-skip-pjax="true"
               rel="nofollow">
@@ -709,7 +709,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.71/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.71/demos/polygon-drawing/static/script.js"
               data-name="v0.1.71"
               data-skip-pjax="true"
               rel="nofollow">
@@ -719,7 +719,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.70/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.70/demos/polygon-drawing/static/script.js"
               data-name="v0.1.70"
               data-skip-pjax="true"
               rel="nofollow">
@@ -729,7 +729,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.69/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.69/demos/polygon-drawing/static/script.js"
               data-name="v0.1.69"
               data-skip-pjax="true"
               rel="nofollow">
@@ -739,7 +739,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.68/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.68/demos/polygon-drawing/static/script.js"
               data-name="v0.1.68"
               data-skip-pjax="true"
               rel="nofollow">
@@ -749,7 +749,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.67/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.67/demos/polygon-drawing/static/script.js"
               data-name="v0.1.67"
               data-skip-pjax="true"
               rel="nofollow">
@@ -759,7 +759,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.66/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.66/demos/polygon-drawing/static/script.js"
               data-name="v0.1.66"
               data-skip-pjax="true"
               rel="nofollow">
@@ -769,7 +769,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.65/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.65/demos/polygon-drawing/static/script.js"
               data-name="v0.1.65"
               data-skip-pjax="true"
               rel="nofollow">
@@ -779,7 +779,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.64/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.64/demos/polygon-drawing/static/script.js"
               data-name="v0.1.64"
               data-skip-pjax="true"
               rel="nofollow">
@@ -789,7 +789,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/v0.1.60/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/v0.1.60/demos/polygon-drawing/static/script.js"
               data-name="v0.1.60"
               data-skip-pjax="true"
               rel="nofollow">
@@ -799,7 +799,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/google/earthengine-api/tree/0.1.90/demos/polygon-drawing/README.md"
+              href="/google/earthengine-api/tree/0.1.90/demos/polygon-drawing/static/script.js"
               data-name="0.1.90"
               data-skip-pjax="true"
               rel="nofollow">
@@ -827,29 +827,52 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/google/earthengine-api"><span>earthengine-api</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/google/earthengine-api/tree/master/demos"><span>demos</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/google/earthengine-api/tree/master/demos/polygon-drawing"><span>polygon-drawing</span></a></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/google/earthengine-api"><span>earthengine-api</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/google/earthengine-api/tree/master/demos"><span>demos</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/google/earthengine-api/tree/master/demos/polygon-drawing"><span>polygon-drawing</span></a></span><span class="separator">/</span><span class="js-path-segment"><a href="/google/earthengine-api/tree/master/demos/polygon-drawing/static"><span>static</span></a></span><span class="separator">/</span><strong class="final-path">script.js</strong>
   </div>
 </div>
 
 
-<include-fragment class="commit-tease" src="/google/earthengine-api/contributors/master/demos/polygon-drawing/README.md">
-  <div>
-    Fetching contributors&hellip;
+
+  <div class="commit-tease">
+      <span class="float-right">
+        <a class="commit-tease-sha" href="/google/earthengine-api/commit/7110809ce760ab187afa43cb20e349e54b0f62b3" data-pjax>
+          7110809
+        </a>
+        <relative-time datetime="2016-09-22T18:05:22Z">Sep 22, 2016</relative-time>
+      </span>
+      <div>
+        <img alt="@maxh" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/1289501?v=3&amp;s=40" width="20" />
+        <a href="/maxh" class="user-mention" rel="contributor">maxh</a>
+          <a href="/google/earthengine-api/commit/7110809ce760ab187afa43cb20e349e54b0f62b3" class="message" data-pjax="true" title="v0.1.96">v0.1.96</a>
+      </div>
+
+    <div class="commit-tease-contributors">
+      <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
+        <strong>1</strong>
+         contributor
+      </button>
+      
+    </div>
+
+    <div id="blob_contributors_box" style="display:none">
+      <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
+      <ul class="facebox-user-list" data-facebox-id="facebox-description">
+          <li class="facebox-user-list-item">
+            <img alt="@maxh" height="24" src="https://avatars1.githubusercontent.com/u/1289501?v=3&amp;s=48" width="24" />
+            <a href="/maxh">maxh</a>
+          </li>
+      </ul>
+    </div>
   </div>
 
-  <div class="commit-tease-contributors">
-    <img alt="" class="loader-loading float-left" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" />
-    <span class="loader-error">Cannot retrieve contributors at this time</span>
-  </div>
-</include-fragment>
 <div class="file">
   <div class="file-header">
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/google/earthengine-api/raw/master/demos/polygon-drawing/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/google/earthengine-api/blame/master/demos/polygon-drawing/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/google/earthengine-api/commits/master/demos/polygon-drawing/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/google/earthengine-api/raw/master/demos/polygon-drawing/static/script.js" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/google/earthengine-api/blame/master/demos/polygon-drawing/static/script.js" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/google/earthengine-api/commits/master/demos/polygon-drawing/static/script.js" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -870,22 +893,545 @@
   </div>
 
   <div class="file-info">
-      13 lines (9 sloc)
+      128 lines (108 sloc)
       <span class="file-info-divider"></span>
-    545 Bytes
+    4.09 KB
   </div>
 </div>
 
   
-  <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-earth-engine-demo-polygon-drawing" class="anchor" href="#earth-engine-demo-polygon-drawing" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Earth Engine Demo: Polygon Drawing</h1>
-<p><a href="https://polygon-drawing-dot-ee-demos.appspot.com/">Live Demo</a></p>
-<p>This example demonstrates how to use polygons drawn on a Google Map with
-the Earth Engine JavaScript client library.</p>
-<p>To set up, follow the instructions in the Developer Docs to
-<a href="https://developers.google.com/earth-engine/app_engine_intro#deploying-app-engine-apps-with-earth-engine">deploy an EE-based App Engine app</a>.
-For the credentials section, you'll need an OAuth2 Client ID, not a Service Account.</p>
-</article>
+
+  <div itemprop="text" class="blob-wrapper data type-javascript">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">//</span> Wrap our code in a self-executing anonymous function to isolate scope.</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">(<span class="pl-k">function</span>() {</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> The client ID from the Google Developers Console.</span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> <span class="pl-c1">CLIENT_ID</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&#39;</span>&lt;your-client-id&gt;<span class="pl-pds">&#39;</span></span>;</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> The Google Map.</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> map;</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> The Drawing Manager for the Google Map.</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> drawingManager;</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> The Google Map feature for the currently drawn polygon, if any.</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> currentPolygon;</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> The Earth Engine image on the map.</span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> image;</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> The scale to use for reduce regions.</span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> <span class="pl-c1">REDUCTION_SCALE</span> <span class="pl-k">=</span> <span class="pl-c1">200</span>;</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> Clears the current polygon and cancels any outstanding analysis.</span></td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> <span class="pl-en">clearPolygon</span> <span class="pl-k">=</span> <span class="pl-k">function</span>() {</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> (currentPolygon) {</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">      <span class="pl-smi">currentPolygon</span>.<span class="pl-en">setMap</span>(<span class="pl-c1">null</span>);</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">      currentPolygon <span class="pl-k">=</span> <span class="pl-c1">undefined</span>;</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.polygon-details .result<span class="pl-pds">&#39;</span></span>).<span class="pl-en">empty</span>();</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.polygon-details<span class="pl-pds">&#39;</span></span>).<span class="pl-en">addClass</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>hidden<span class="pl-pds">&#39;</span></span>);</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">drawingManager</span>.<span class="pl-en">setOptions</span>(</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">        {drawingMode<span class="pl-k">:</span> <span class="pl-smi">google</span>.<span class="pl-smi">maps</span>.<span class="pl-smi">drawing</span>.<span class="pl-smi">OverlayType</span>.<span class="pl-c1">POLYGON</span>});</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">  };</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> Sets the current polygon and kicks off an EE analysis.</span></td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> <span class="pl-en">setPolygon</span> <span class="pl-k">=</span> <span class="pl-k">function</span>(<span class="pl-smi">newPolygon</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">clearPolygon</span>();</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">    currentPolygon <span class="pl-k">=</span> newPolygon;</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.polygon-details<span class="pl-pds">&#39;</span></span>).<span class="pl-en">removeClass</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>hidden<span class="pl-pds">&#39;</span></span>);</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">drawingManager</span>.<span class="pl-en">setOptions</span>({drawingMode<span class="pl-k">:</span> <span class="pl-c1">null</span>});</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">var</span> eePolygon <span class="pl-k">=</span> <span class="pl-smi">ee</span>.<span class="pl-smi">Geometry</span>.<span class="pl-en">Polygon</span>(<span class="pl-en">getCoordinates</span>(currentPolygon));</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">var</span> mean <span class="pl-k">=</span> <span class="pl-smi">image</span>.<span class="pl-en">reduceRegion</span>(</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">        <span class="pl-smi">ee</span>.<span class="pl-smi">Reducer</span>.<span class="pl-en">mean</span>(), eePolygon, <span class="pl-c1">REDUCTION_SCALE</span>);</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.polygon-details .result<span class="pl-pds">&#39;</span></span>).<span class="pl-c1">text</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>Loading...<span class="pl-pds">&#39;</span></span>);</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">mean</span>.<span class="pl-en">getInfo</span>(<span class="pl-k">function</span>(<span class="pl-smi">data</span>, <span class="pl-smi">error</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">      <span class="pl-c"><span class="pl-c">//</span> Ensure that the polygon hasn&#39;t changed since we sent the request.</span></td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">if</span> (currentPolygon <span class="pl-k">!=</span> newPolygon) <span class="pl-k">return</span>;</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">      <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.polygon-details .result<span class="pl-pds">&#39;</span></span>).<span class="pl-c1">text</span>(</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">          <span class="pl-c1">JSON</span>.<span class="pl-en">stringify</span>(data <span class="pl-k">||</span> error, <span class="pl-c1">null</span>, <span class="pl-s"><span class="pl-pds">&#39;</span> <span class="pl-pds">&#39;</span></span>));</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">    });</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">  };</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> Extract an array of coordinates for the given polygon.</span></td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> <span class="pl-en">getCoordinates</span> <span class="pl-k">=</span> <span class="pl-k">function</span>(<span class="pl-smi">polygon</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">var</span> points <span class="pl-k">=</span> <span class="pl-smi">currentPolygon</span>.<span class="pl-en">getPath</span>().<span class="pl-en">getArray</span>();</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">return</span> <span class="pl-smi">points</span>.<span class="pl-en">map</span>(<span class="pl-k">function</span>(<span class="pl-smi">point</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">return</span> [<span class="pl-smi">point</span>.<span class="pl-en">lng</span>(), <span class="pl-smi">point</span>.<span class="pl-en">lat</span>()];</td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">    });</td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">  };</td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">  <span class="pl-c"><span class="pl-c">//</span> Runs a simple EE analysis and output the results to the web page.</span></td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">var</span> <span class="pl-en">loadMap</span> <span class="pl-k">=</span> <span class="pl-k">function</span>() {</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">//</span> Create the base Google Map.</span></td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">    map <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-en">google.maps.Map</span>(<span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.map<span class="pl-pds">&#39;</span></span>).<span class="pl-c1">get</span>(<span class="pl-c1">0</span>), {</td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">      center<span class="pl-k">:</span> { lat<span class="pl-k">:</span> <span class="pl-k">-</span><span class="pl-c1">34.397</span>, lng<span class="pl-k">:</span> <span class="pl-c1">150.644</span>},</td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">      zoom<span class="pl-k">:</span> <span class="pl-c1">8</span>,</td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">      streetViewControl<span class="pl-k">:</span> <span class="pl-c1">false</span></td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">    });</td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">ee</span>.<span class="pl-en">initialize</span>();</td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">    image <span class="pl-k">=</span> <span class="pl-smi">ee</span>.<span class="pl-en">Image</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>srtm90_v4<span class="pl-pds">&#39;</span></span>);</td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">var</span> eeMapConfig <span class="pl-k">=</span> <span class="pl-smi">image</span>.<span class="pl-en">getMap</span>({<span class="pl-s"><span class="pl-pds">&#39;</span>min<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-c1">0</span>, <span class="pl-s"><span class="pl-pds">&#39;</span>max<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-c1">1000</span>});</td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">var</span> eeTileSource <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-en">ee.layers.EarthEngineTileSource</span>(</td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>https://earthengine.googleapis.com/map<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">        <span class="pl-smi">eeMapConfig</span>.<span class="pl-smi">mapid</span>, <span class="pl-smi">eeMapConfig</span>.<span class="pl-smi">token</span>);</td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">var</span> overlay <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-en">ee.layers.ImageOverlay</span>(eeTileSource);</td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">//</span> Show a count of the number of map tiles remaining.</span></td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">overlay</span>.<span class="pl-en">addTileCallback</span>(<span class="pl-k">function</span>(<span class="pl-c1">event</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">      <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.tiles-loading<span class="pl-pds">&#39;</span></span>).<span class="pl-c1">text</span>(<span class="pl-c1">event</span>.<span class="pl-smi">count</span> <span class="pl-k">+</span> <span class="pl-s"><span class="pl-pds">&#39;</span> tiles remaining.<span class="pl-pds">&#39;</span></span>);</td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">if</span> (<span class="pl-c1">event</span>.<span class="pl-smi">count</span> <span class="pl-k">===</span> <span class="pl-c1">0</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">        <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.tiles-loading<span class="pl-pds">&#39;</span></span>).<span class="pl-en">empty</span>();</td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">      }</td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">    });</td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">//</span> Create a Google Maps Drawing Manager for drawing polygons.</span></td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">    drawingManager <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-en">google.maps.drawing.DrawingManager</span>({</td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">      drawingMode<span class="pl-k">:</span> <span class="pl-smi">google</span>.<span class="pl-smi">maps</span>.<span class="pl-smi">drawing</span>.<span class="pl-smi">OverlayType</span>.<span class="pl-c1">POLYGON</span>,</td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line">      drawingControl<span class="pl-k">:</span> <span class="pl-c1">false</span>,</td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">      polygonOptions<span class="pl-k">:</span> {</td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">        fillColor<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>#ff0000<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">        strokeColor<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>#ff0000<span class="pl-pds">&#39;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">      }</td>
+      </tr>
+      <tr>
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">    });</td>
+      </tr>
+      <tr>
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">//</span> Respond when a new polygon is drawn.</span></td>
+      </tr>
+      <tr>
+        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">google</span>.<span class="pl-smi">maps</span>.<span class="pl-c1">event</span>.<span class="pl-en">addListener</span>(drawingManager, <span class="pl-s"><span class="pl-pds">&#39;</span>overlaycomplete<span class="pl-pds">&#39;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">function</span>(<span class="pl-c1">event</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td id="LC98" class="blob-code blob-code-inner js-file-line">          <span class="pl-en">setPolygon</span>(<span class="pl-c1">event</span>.<span class="pl-smi">overlay</span>);</td>
+      </tr>
+      <tr>
+        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line">        });</td>
+      </tr>
+      <tr>
+        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
+        <td id="LC100" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
+        <td id="LC101" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">//</span> Clear the current polygon when the user clicks the &quot;Draw new&quot; button.</span></td>
+      </tr>
+      <tr>
+        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.polygon-details .draw-new<span class="pl-pds">&#39;</span></span>).<span class="pl-c1">click</span>(clearPolygon);</td>
+      </tr>
+      <tr>
+        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
+        <td id="LC103" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">drawingManager</span>.<span class="pl-en">setMap</span>(map);</td>
+      </tr>
+      <tr>
+        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">//</span> Show the EE map on the Google Map.</span></td>
+      </tr>
+      <tr>
+        <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
+        <td id="LC107" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">map</span>.<span class="pl-smi">overlayMapTypes</span>.<span class="pl-c1">push</span>(overlay);</td>
+      </tr>
+      <tr>
+        <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
+        <td id="LC108" class="blob-code blob-code-inner js-file-line">  };</td>
+      </tr>
+      <tr>
+        <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
+        <td id="LC109" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
+        <td id="LC110" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">$</span>(<span class="pl-c1">document</span>).<span class="pl-en">ready</span>(<span class="pl-k">function</span>() {</td>
+      </tr>
+      <tr>
+        <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
+        <td id="LC111" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">//</span> Shows a button prompting the user to log in.</span></td>
+      </tr>
+      <tr>
+        <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
+        <td id="LC112" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">var</span> <span class="pl-en">onImmediateFailed</span> <span class="pl-k">=</span> <span class="pl-k">function</span>() {</td>
+      </tr>
+      <tr>
+        <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
+        <td id="LC113" class="blob-code blob-code-inner js-file-line">      <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.g-sign-in<span class="pl-pds">&#39;</span></span>).<span class="pl-en">removeClass</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>hidden<span class="pl-pds">&#39;</span></span>);</td>
+      </tr>
+      <tr>
+        <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
+        <td id="LC114" class="blob-code blob-code-inner js-file-line">      <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.output<span class="pl-pds">&#39;</span></span>).<span class="pl-c1">text</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>Please log in to use the app.<span class="pl-pds">&#39;</span></span>);</td>
+      </tr>
+      <tr>
+        <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
+        <td id="LC115" class="blob-code blob-code-inner js-file-line">      <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.g-sign-in .button<span class="pl-pds">&#39;</span></span>).<span class="pl-c1">click</span>(<span class="pl-k">function</span>() {</td>
+      </tr>
+      <tr>
+        <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
+        <td id="LC116" class="blob-code blob-code-inner js-file-line">        <span class="pl-smi">ee</span>.<span class="pl-c1">data</span>.<span class="pl-en">authenticateViaPopup</span>(<span class="pl-k">function</span>() {</td>
+      </tr>
+      <tr>
+        <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
+        <td id="LC117" class="blob-code blob-code-inner js-file-line">          <span class="pl-c"><span class="pl-c">//</span> If the login succeeds, hide the login button and run the analysis.</span></td>
+      </tr>
+      <tr>
+        <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
+        <td id="LC118" class="blob-code blob-code-inner js-file-line">          <span class="pl-en">$</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>.g-sign-in<span class="pl-pds">&#39;</span></span>).<span class="pl-en">addClass</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>hidden<span class="pl-pds">&#39;</span></span>);</td>
+      </tr>
+      <tr>
+        <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
+        <td id="LC119" class="blob-code blob-code-inner js-file-line">          <span class="pl-en">loadMap</span>();</td>
+      </tr>
+      <tr>
+        <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
+        <td id="LC120" class="blob-code blob-code-inner js-file-line">        });</td>
+      </tr>
+      <tr>
+        <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
+        <td id="LC121" class="blob-code blob-code-inner js-file-line">      });</td>
+      </tr>
+      <tr>
+        <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
+        <td id="LC122" class="blob-code blob-code-inner js-file-line">    };</td>
+      </tr>
+      <tr>
+        <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
+        <td id="LC123" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
+        <td id="LC124" class="blob-code blob-code-inner js-file-line">    <span class="pl-c"><span class="pl-c">//</span> Attempt to authenticate using existing credentials.</span></td>
+      </tr>
+      <tr>
+        <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
+        <td id="LC125" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">ee</span>.<span class="pl-c1">data</span>.<span class="pl-en">authenticate</span>(<span class="pl-c1">CLIENT_ID</span>, loadMap, <span class="pl-c1">null</span>, <span class="pl-c1">null</span>, onImmediateFailed);</td>
+      </tr>
+      <tr>
+        <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
+        <td id="LC126" class="blob-code blob-code-inner js-file-line">  });</td>
+      </tr>
+      <tr>
+        <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
+        <td id="LC127" class="blob-code blob-code-inner js-file-line">})();</td>
+      </tr>
+</table>
+
   </div>
 
 </div>
@@ -923,7 +1469,7 @@ For the credentials section, you'll need an OAuth2 Client ID, not a Service Acco
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.06082s from github-fe125-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.12917s from github-fe145-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
